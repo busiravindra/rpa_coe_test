@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\EY Bots\\TestComm","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\EY Bots\\TestComm","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\EY Bots\\TestQueueCOnsume"]}
